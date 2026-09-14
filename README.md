@@ -6,7 +6,27 @@ I explore computational biology, bioinformatics, and practical AI tools for rese
 - 🤖 Building reusable agent skills and multi-model research workflows
 - 🔬 Interested in reproducible, evidence-grounded scientific work
 
-## Projects
+## Featured projects
+
+### [Codex Bridge to ChatGPT](https://github.com/ChenYvhang/codex-bridge-chatgpt)
+
+A persistent, verified handoff layer between Codex and one ordinary ChatGPT Chat. ChatGPT keeps the conversation and contributes planning, reasoning, review, and complete-file drafts; Codex gathers current repository evidence, verifies every proposal, applies accepted files, operates the computer, and runs tests.
+
+- Reuses one bound Chat across rounds and sends compact context deltas instead of replaying the full history
+- Protects local execution with scoped identity, artifact hashes, guarded file adoption, receipts, and recovery checkpoints
+- Includes a zero-dependency Codex Skill, optional read-only local MCP tools, and reproducible cross-platform release checks
+
+The 1.0 source is public and remains experimental while the final browser-based end-to-end release gate is completed.
+
+### [Academic Poster](https://github.com/ChenYvhang/academic-poster)
+
+A portable Agent Skill that turns a paper, manuscript, thesis chapter, defense deck, data package, or existing poster into a polished, editable scientific-poster PPTX. It adapts the structure and layout to the venue rather than forcing one fixed template.
+
+- Supports Codex, Claude Code, and OpenClaw
+- Resolves dimensions, branding, authorship, evidence structure, figures, and grid layout from the supplied materials
+- Delivers an editable one-slide PPTX, renders it for visual quality checks, and can create a paired abstract or approved PDF
+
+## More projects
 
 ### Computational biology & scientific modeling
 
