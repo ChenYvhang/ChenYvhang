@@ -10,6 +10,7 @@ I explore computational biology, bioinformatics, and practical AI tools for rese
 
 ### Computational biology & scientific modeling
 
+- [Cyberfly Explorer 3D](https://github.com/ChenYvhang/cyberfly-explorer) — interactive 3D fruit-fly exploration simulator with a detailed GLB model and editable worlds
 - [Bridge UMI Error Correction](https://github.com/ChenYvhang/bridge-umi-error-correction) — Bayesian, region-aware, and indel-tolerant UMI error correction
 - [Protein Language Model for DNA Binding](https://github.com/ChenYvhang/protein-language-model-dna-binding) — protein embeddings, classical ML, CNNs, and LoRA for DNA-binding prediction
 - [Kuramoto Brain Network Modeling](https://github.com/ChenYvhang/kuramoto-brain-network-modeling) — connectome synchrony, hubs, perturbations, and disease-network simulations
