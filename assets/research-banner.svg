@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Yuhang Chen — Computational Biology and AI Research</title>
+  <desc id="desc">A dark green research banner with a neural network and an illustrated fruit fly.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#112c2c"/><stop offset="1" stop-color="#0b171b"/></linearGradient>
+    <linearGradient id="wing" x2="1" y2="1"><stop stop-color="#bdddd7" stop-opacity=".23"/><stop offset="1" stop-color="#72b5aa" stop-opacity=".04"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#79b9af" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+  <path d="M42 40H82M42 40V64M1158 40H1134M1158 40V64M42 290H66M42 290V266M1158 290H1134M1158 290V266" fill="none" stroke="#84c8b4" stroke-opacity=".55"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="70" y="75" fill="#8ac8b9" font-size="13" font-weight="600" letter-spacing="3">MODELS · METHODS · OPEN SOURCE</text>
+    <text x="66" y="151" fill="#edf7f2" font-size="64" font-weight="650" letter-spacing="-2">Yuhang Chen</text>
+    <text x="70" y="193" fill="#c0d4cd" font-size="20">Computational biology. Neural simulation.</text>
+    <text x="70" y="224" fill="#c0d4cd" font-size="20">AI tools for the research process.</text>
+    <circle cx="76" cy="268" r="4" fill="#a9d1a0"/>
+    <text x="91" y="273" fill="#869f98" font-size="13" letter-spacing=".5">From biological data to interactive experiments</text>
+  </g>
+  <g fill="none" stroke="#78bfb0" stroke-opacity=".28" stroke-width="1.2">
+    <path d="M725 83L788 52L825 99L896 54L958 100L1046 63L1110 103L1078 168L1120 228L1043 268L985 229L919 281L860 230L786 269L752 191L697 152Z"/>
+    <path d="M725 83L825 99L752 191L860 230L958 100L985 229L1078 168L896 54L825 99L860 230L919 281M788 52L752 191L786 269M958 100L1043 268L1110 103M697 152L825 99M985 229L1120 228"/>
+  </g>
+  <g fill="#8fceba"><circle cx="725" cy="83" r="4"/><circle cx="788" cy="52" r="3"/><circle cx="825" cy="99" r="5"/><circle cx="896" cy="54" r="3"/><circle cx="958" cy="100" r="4"/><circle cx="1046" cy="63" r="3"/><circle cx="1110" cy="103" r="4"/><circle cx="1078" cy="168" r="5"/><circle cx="1120" cy="228" r="3"/><circle cx="1043" cy="268" r="4"/><circle cx="985" cy="229" r="4"/><circle cx="919" cy="281" r="3"/><circle cx="860" cy="230" r="5"/><circle cx="786" cy="269" r="3"/><circle cx="752" cy="191" r="4"/><circle cx="697" cy="152" r="3"/></g>
+  <g transform="translate(924 162) rotate(-23)">
+    <circle r="91" fill="#0c1f22" stroke="#56867e" stroke-opacity=".55"/>
+    <circle r="105" fill="none" stroke="#618f83" stroke-opacity=".18" stroke-dasharray="3 7"/>
+    <g stroke="#acd0c6" stroke-width="1.2">
+      <path d="M-7-7C-44-65-106-73-87-30C-69-10-27 7-7 9Z" fill="url(#wing)"/>
+      <path d="M7-7C44-65 106-73 87-30C69-10 27 7 7 9Z" fill="url(#wing)"/>
+      <g fill="none" opacity=".45"><path d="M-9-2L-75-45M-9 6L-80-29M-37-20L-49-48M9-2L75-45M9 6L80-29M37-20L49-48"/></g>
+    </g>
+    <g fill="none" stroke="#b7946c" stroke-width="2" stroke-linecap="round"><path d="M-10-16L-27-32L-39-28M10-16L27-32L39-28M-12-3L-39 3L-47 19M12-3L39 3L47 19M-10 9L-26 28L-37 45M10 9L26 28L37 45"/></g>
+    <ellipse cy="24" rx="17" ry="34" fill="#946b47" stroke="#d4b58a" stroke-width="1.1"/>
+    <path d="M-16 16H16M-15 28H15M-12 40H12M-8 50H8" stroke="#e0c29a" stroke-opacity=".6"/>
+    <ellipse cy="-8" rx="15" ry="20" fill="#bc9567" stroke="#ddc7a3"/>
+    <ellipse cy="-32" rx="15" ry="12" fill="#987243"/>
+    <ellipse cx="-11" cy="-35" rx="6" ry="8" fill="#d37d63"/><ellipse cx="11" cy="-35" rx="6" ry="8" fill="#d37d63"/>
+    <path d="M-5-42L-10-51M5-42L10-51" fill="none" stroke="#d5c1a3" stroke-width="1.5"/>
+  </g>
+</svg>
